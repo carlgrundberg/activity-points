@@ -1,0 +1,26 @@
+{
+  "name": "activity-points",
+  "version": "1.0.0",
+  "description": "Calculate points from activities",
+  "main": "index",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/carlgrundberg/activity-points.git"
+  },
+  "keywords": [
+    "Activity poitns", "Workout", "Weight", "Duration", "Intensity"
+  ],
+  "author": {
+    "name": "Carl Grundberg",
+    "email": "carl.grundberg@gmail.com"
+  },
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/carlgrundberg/activity-points/issues"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+  }
+}
