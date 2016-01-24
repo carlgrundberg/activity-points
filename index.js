@@ -56,10 +56,6 @@ module.exports = {
         duration = Math.max(duration, min_duration);
         duration = Math.min(duration, max_duration);
 
-        console.log("weight", weight);
-        console.log("duration", duration);
-        console.log("intensity", intensity);
-
         return matrix[weights.indexOf(weight)][durations.indexOf(duration)][intensity];
     }
 };
