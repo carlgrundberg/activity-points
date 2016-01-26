@@ -13,8 +13,8 @@ npm install activity-points
 
 ```javascript
 var ap = require('activity-points');
-var weight = '100'; // kg
-var duration = '30'; // minutes
+var weight = 100; // kg
+var duration = 30; // minutes
 var intensity = 'moderate'; // low, moderate, high
 var points = ap.calculate(weight, duration, intensity);
 ```
