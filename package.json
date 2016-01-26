@@ -1,6 +1,6 @@
 {
   "name": "activity-points",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Calculate points from activities",
   "main": "index",
   "repository": {
